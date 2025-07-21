@@ -1,7 +1,7 @@
 // pages/about.tsx
 import React from 'react';
-import Header from '../components/layout/Header';
-import Button from '../components/common/Button';
+import Header from '@/components/layout/Header';
+import Button from '@/components/common/Button';
 
 const AboutPage: React.FC = () => {
   return (
